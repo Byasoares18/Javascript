@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background-color: hwb(183 87% 6%);
+    float: left;
+}
+
+.container{
+    padding: 2%;
+    letter-spacing: 10%;
+    justify-items: baseline;
+}
+.container h2{
+    letter-spacing: 10%;
+    margin-right: 10%;
+}
+
+.tab-content,#menu1,#menu2{
+    margin-top: 5%;
+    padding: 5%;
+    
+}
+
+
+.nav-item{
+    color: black;
+}
